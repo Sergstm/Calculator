@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc50903e-8edd-4891-a675-c6bdce8a7e3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UpZAkLWsezh80zWSVJmxQvm81Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc50903e-8edd-4891-a675-c6bdce8a7e3f" name="Default Changelist" comment="" />
+      <created>1576055355112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576055355112</updated>
+      <workItem from="1576057777114" duration="6296000" />
+      <workItem from="1576064248315" duration="1013000" />
+      <workItem from="1576075587392" duration="5921000" />
+      <workItem from="1576089253435" duration="8063000" />
+      <workItem from="1576151872413" duration="1788000" />
+      <workItem from="1576157055347" duration="58000" />
+      <workItem from="1576170271081" duration="5435000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit from Create React App">
+      <created>1576175464208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576175464208</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit from Create React App">
+      <created>1576175491813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576175491813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit from Create React App">
+      <created>1576175547957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576175547957</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Initial commit from Create React App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit from Create React App" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="162" width="524" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576064843001">
+      <screen x="0" y="27" width="1280" height="773" />
+    </state>
+    <state x="373" y="162" width="524" height="500" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1280.773@0.27.1280.773" timestamp="1576064843001" />
+    <state x="240" y="27" width="790" height="773" key="CommitChangelistDialog2" timestamp="1576175776219">
+      <screen x="0" y="27" width="1280" height="773" />
+    </state>
+    <state x="240" y="27" width="790" height="773" key="CommitChangelistDialog2/0.27.1280.773@0.27.1280.773" timestamp="1576175776219" />
+    <state x="100" y="125" width="1080" height="575" key="DiffContextDialog" timestamp="1576175734501">
+      <screen x="0" y="27" width="1280" height="773" />
+    </state>
+    <state x="100" y="125" width="1080" height="575" key="DiffContextDialog/0.27.1280.773@0.27.1280.773" timestamp="1576175734501" />
+    <state x="423" y="170" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576062006923">
+      <screen x="0" y="27" width="1280" height="773" />
+    </state>
+    <state x="423" y="170" width="424" height="484" key="FileChooserDialogImpl/0.27.1280.773@0.27.1280.773" timestamp="1576062006923" />
+    <state x="223" y="158" width="824" height="508" key="IDE.errors.dialog" timestamp="1576057674025">
+      <screen x="0" y="27" width="1280" height="773" />
+    </state>
+    <state x="223" y="158" width="824" height="508" key="IDE.errors.dialog/0.27.1280.773@0.27.1280.773" timestamp="1576057674025" />
+    <state x="144" y="47" key="SettingsEditor" timestamp="1576057664288">
+      <screen x="0" y="27" width="1280" height="773" />
+    </state>
+    <state x="144" y="47" key="SettingsEditor/0.27.1280.773@0.27.1280.773" timestamp="1576057664288" />
+    <state x="437" y="332" width="395" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576152062169">
+      <screen x="0" y="27" width="1280" height="773" />
+    </state>
+    <state x="437" y="332" width="395" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1280.773@0.27.1280.773" timestamp="1576152062169" />
+  </component>
+</project>
